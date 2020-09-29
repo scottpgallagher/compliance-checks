@@ -1,0 +1,11 @@
+---
+name: compliance-checks
+title: A InSpec package to run compliance checks
+summary: A InSpec package to run compliance checks
+version: 1.0.1
+maintainer: Scott Gallagher
+copyright: Chef Software, Inc.
+copyright_email: sgallagher@chef.io
+license: Proprietary, All rights reserved
+supports:
+- platform-family: redhat
